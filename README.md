@@ -1,76 +1,97 @@
-# 💫 About Me:
-**Hi 👋, I'm Juan Pablo Giraldo Collazos**<br><br>
-Full Stack Developer and Systems and Computer Engineer in training, with knowledge in web programming, frontend and backend. With skills that allow self-management, self-learning, evolution and adaptation according to the project to be carried out. I specialize in Backend development with Java and the Spring Framework, also in Frontend development with Angular.
-<br><br>- 🔭 I’m currently working on [SIASA Microservices](https://github.com/CpuJP/SiasaMicroservices)
-<br><br>- 🌱 I’m currently learning **The entire Spring suite**
-<br><br>- 👨‍💻 All of my projects are available at [https://github.com/CpuJP](https://github.com/CpuJP)
-<br><br>- 📫 How to reach me **Cpujuanpis@gmail.com**
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Juan%20Pablo%20Giraldo%20Collazos&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20%26%20Computer%20Engineer%20%E2%80%A2%20Cloud%20%E2%80%A2%20Network%20Security%20%E2%80%A2%20AI-Driven%20Dev&descAlignY=58&descSize=16" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/CpuJP">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AWS+Serverless+%7C+Lambda+%E2%80%A2+S3+%E2%80%A2+SQS+%E2%80%A2+CloudWatch;Network+Infrastructure+%26+Security;Building+with+AI+Agents+%2B+Spec-Driven+Development" alt="Typing SVG" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jp-giraldo) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20985912) 
-
-
-# 💻 Tech Stack:
-
-## Programming languages:
-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-- ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-## Frameworks:
-- ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-- ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-- ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-## Databases:
-- ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-- ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-- ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-- ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-## Operating systems:
-- ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-## Tools and Technologies:
-- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-- ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-- ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-- ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-- ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-- ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-- ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-- ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-- ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-- ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CpuJP&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=CpuJP&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CpuJP&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CpuJP&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=CpuJP&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+<p align="center">
+  <a href="https://linkedin.com/in/jp-giraldo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/20985912"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
+  <a href="mailto:cpujuanpis@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=CpuJP&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=CpuJP&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+I'm a **Systems and Computer Engineer** with a **specialization in Network Infrastructure and Security**, working as a **Full Stack Developer** with strong hands-on experience in **AWS cloud** and **AI-assisted software engineering**.
+
+- ☁️ Design and build **serverless, event-driven solutions on AWS** — Lambda, S3, SQS, SNS, API Gateway, DynamoDB, IAM and CloudWatch for observability.
+- 🛡️ Bring a **security-first mindset** from my network infrastructure background: least-privilege access, secure network design, monitoring and hardening.
+- 🤖 Work daily with **AI coding agents** using **Spec-Driven Development (SDD)** — turning clear specifications into tested, production-ready code faster.
+- 🧩 **Full Stack**: backend with **Java / Spring Boot**, **Node.js** and **Python**; frontend with **Angular** and **TypeScript**.
+- 🐳 Containerize and ship with **Docker**, **Kubernetes** and CI/CD pipelines.
+- 📫 Reach me at **cpujuanpis@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+### ☁️ Cloud & AWS
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQS-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white" />
+  <img src="https://img.shields.io/badge/SNS-FF4F8B?style=for-the-badge&logo=amazonsimpleemailservice&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" />
+  <img src="https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white" />
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazoniam&logoColor=white" />
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+</p>
+
+### 🤖 AI-Assisted Engineering
+<p>
+  <img src="https://img.shields.io/badge/AI_Coding_Agents-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spec--Driven_Development-6E40C9?style=for-the-badge&logo=readthedocs&logoColor=white" />
+</p>
+
+### 🛡️ Networking & Security
+<p>
+  <img src="https://img.shields.io/badge/Network_Infrastructure-005073?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network_Security-B22222?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+### 💻 Languages, Frameworks & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,python,ts,js,spring,angular,nodejs,html,css,sass,bootstrap&perline=12" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,docker,kubernetes,maven,git,github,postman,figma&perline=12" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CpuJP&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CpuJP&theme=tokyonight&hide_border=true&layout=compact" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=CpuJP&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CpuJP&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
+</p>
