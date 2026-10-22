@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Juan%20Pablo%20Giraldo%20Collazos&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20%26%20Computer%20Engineer%20%E2%80%A2%20Cloud%20%E2%80%A2%20Network%20Security%20%E2%80%A2%20AI-Driven%20Dev&descAlignY=58&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Juan%20Pablo%20Giraldo%20Collazos&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20and%20Computer%20Engineer%20-%20Cloud%20-%20Network%20Security%20-%20AI&descAlignY=58&descSize=16" />
 </p>
 
 <p align="center">
@@ -86,9 +86,6 @@ I'm a **Systems and Computer Engineer** with a **specialization in Network Infra
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=CpuJP&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CpuJP&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 <!-- Footer -->
